@@ -1,22 +1,23 @@
-# HTML Project
+# Portfolio Webpage
 
-A simple responsive website built using HTML and CSS.
+A responsive portfolio website built using HTML and CSS, showcasing modern layout design and clean UI styling.
 
 ## Features
-
-* Responsive layout
-* Clean and simple design
+- Responsive design
+- Clean and minimal UI
+- Structured layout
+- Image integration
 
 ## Tech Stack
+- HTML
+- CSS
 
-* HTML
-* CSS
+## Project Structure
+- index.html
+- images/
 
-## How to Run
-
-1. Download or clone the repository
-2. Open index.html in your browser
+## Preview
+(Add screenshots here if available)
 
 ## Author
-
 Shubhransu Sekhar
