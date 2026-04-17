@@ -2,17 +2,6 @@
 
 A simple responsive website built using HTML and CSS.
 
-## Live Demo
-
-https://your-username.github.io/HTML_PROJECT/
-
-## Project Structure
-
-HTML_PROJECT/
-│── index.html
-│── style.css
-│── images/
-
 ## Features
 
 * Responsive layout
